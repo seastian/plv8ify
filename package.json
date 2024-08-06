@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "gen": "plv8ify generate"
+  },
+  "dependencies": {
+    "plv8ify": "^0.0.59",
+    "sanitize-html": "^2.13.0"
+  }
+}
